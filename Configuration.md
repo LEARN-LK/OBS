@@ -1,6 +1,8 @@
 ## 3. Configuration
 ### Configure Settings:
-  - In the control section, click "Settings" in the bottom-right corner.
+  - In the control section **[1]**, click "Settings" **[2]** in the bottom-right corner.
+
+    <img src="https://github.com/LEARN-LK/OBS/blob/main/img/control-tab-1.png" style="width:70%;">
   - A settings window will pop up; select the "Output" tab.
      - **Output Settings**:
        - Select "Simple" mode.
