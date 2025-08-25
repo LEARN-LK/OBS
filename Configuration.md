@@ -16,10 +16,14 @@
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/output-01.png" style="width:50%;">
 
   - **Configure Audio Settings**:
-       - Navigate to the "Audio" tab and select your microphone under "Mic/Auxiliary."
+       - Navigate to the "Audio" tab and select your microphone under **"Mic/Auxiliary. [7]**"
+
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/settings-audio-1.png" style="width:50%;">
+
   - **Configure Video Settings**:
-      - In the "Video" tab, set the resolution (e.g., 1440p or 1080p, based on your monitor).
-      - Choose the FPS (60 for smoother recording, 30 is sufficient).
+      - In the "Video" tab, set the **resolution (e.g., 1440p or 1080p, based on your monitor) [8]**.
+      - Choose the **FPS (60 for smoother recording, 30 is sufficient) [9]**.
       - Click "OK" to save all settings.
 
+ <img src="https://github.com/LEARN-LK/OBS/blob/main/img/settings-video-1.png" style="width:50%;">
 
