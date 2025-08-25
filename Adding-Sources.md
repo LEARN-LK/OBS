@@ -1,7 +1,7 @@
 #### 4. Adding Sources
    - **Select Scene**:
      - Ensure your created scene is selected in the "Scenes (Guide)" section.
-<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-1.png" style="width:60%">
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-1.png" style="width:50%">
        
    - **Add Display Capture**:
      - In the "Sources" section, click the "+" button.
