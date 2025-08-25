@@ -2,7 +2,8 @@
 ### Configure Settings:
   - In the control section **[1]**, click "Settings" **[2]** in the bottom-right corner.
 
-    <img src="https://github.com/LEARN-LK/OBS/blob/main/img/control-tab-1.png" style="width:70%;">
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/control-tab-1.png" style="width:70%;">
+    
   - A settings window will pop up; select the "Output" tab.
      - **Output Settings**:
        - Select "**Simple" mode [3]**.
@@ -11,7 +12,10 @@
        - Select MP4 as the recording format.
        - For the **encoder [6]**, use "NVENC" if you have an NVIDIA graphics card; otherwise, use "x264."
        - Click "OK" to save settings.
-    - **Configure Audio Settings**:
+
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/output-01.png" style="width:50%;">
+
+  - **Configure Audio Settings**:
        - Navigate to the "Audio" tab and select your microphone under "Mic/Auxiliary."
     - **Configure Video Settings**:
       - In the "Video" tab, set the resolution (e.g., 1440p or 1080p, based on your monitor).
