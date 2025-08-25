@@ -8,7 +8,7 @@
      - Select "Display Capture" and click "OK."
      - If you have multiple monitors, choose the display to record, then click "OK."
 
-<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:60%">
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:40%">
 
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-3.png" style="width:60%">
        
