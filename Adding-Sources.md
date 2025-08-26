@@ -1,22 +1,46 @@
 #### 4. Adding Sources
    - **Select Scene**:
-     - Ensure your created scene is selected in the "Scenes (Guide)" section.
+     - Ensure your created scene is selected in the **"Scenes (Guide)"[1]** section.
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-1.png" style="width:50%">
        
-   - **Add Display Capture**:
-      - In the "Sources" section, click the "+" button.
-      - You will see three options under capture types: **Display Capture**, **Window Capture**, and **Application Capture**.
-      - For your current goal of recording the computer screen and webcam (as per the video), select **"Display Capture"** and click "OK."
-      - If you have multiple monitors, choose the display you want to record, then click "OK."
-    
-
-     - Select **"Display Capture" [3]** and click **"OK. [4]**"
-     - If you have multiple monitors, choose the display to record, then click "OK."
+  - **Add Display Capture**:
+    - In the "Sources" section, click the "+" button.
+    - Select **"macOS Screen Capture/Display Capture" [2]** from the dropdown menu and click "OK."
+    - A window will appear with the following options:
+      - **Create new**: Select this option and name the source (e.g., "macOS Screen Capture 4" as shown in the first image).
+      - **Add Existing**: Use this if you’ve already created a screen capture source and want to reuse it (not applicable here since you’re adding a new one).
+    - Ensure "Make source visible" is checked to display the screen capture feed immediately.
+    - Click "OK" to proceed.
+    - In the next window (properties for "macOS Screen Capture 4" as shown in the third image), select the capture method:
+      - Choose **Display Capture [3]** from the "Method" dropdown to capture the entire screen.
+      - Leave "Window Capture" or "Application Capture" unselected unless you want to focus on a specific window or application.
+      - Check "Show cursor" if you want the mouse cursor to be visible in the recording (optional).
+   - Click **"OK" [4]** to add the screen capture feed.
 
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:40%">
 
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-3.png" style="width:60%">
        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **Add Webcam**:
   - Click the **"+" [2]** button in "Sources" again.
   - Select **"Video Capture Device" [3]** from the dropdown menu and click "OK."
