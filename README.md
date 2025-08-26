@@ -6,7 +6,7 @@ OBS Studio (Open Broadcaster Software) is a free, open-source application design
 1. [Installation](https://github.com/LEARN-LK/OBS/blob/main/Installation.md)
 2. [Initial Setup](https://github.com/LEARN-LK/OBS/blob/main/Initial-Setup.md)
 3. [Configuration]()
-4. [Adding Sources]()
+4. [Adding Sources](https://github.com/LEARN-LK/OBS/blob/main/Adding-Sources.md)
 5. [Customization]()
 6. [Recording]()
   
