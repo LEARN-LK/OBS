@@ -1,4 +1,4 @@
-#### 4. Adding Sources
+## 4. Adding Sources
    - **Select Scene**:
      - Ensure your created scene is selected in the **"Scenes (Guide)"[1]** section.
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-1.png" style="width:50%">
@@ -21,25 +21,6 @@
 
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-3.png" style="width:60%">
        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - **Add Webcam**:
   - Click the **"+" [2]** button in "Sources" again.
@@ -64,10 +45,24 @@
   - Click **"OK" [8]** to add the webcam feed.
 
 
+## 5. Customization
+
+- **Adjust Webcam Position and Size**:
+  - In the OBS preview window, use the red dots around the webcam feed to resize or drag it to your preferred position (e.g., bottom-right corner, as adjusted to 777 px width and 45 px height in the example).
+
+- **Adjust Microphone Volume**:
+  - Use the audio mixer in OBS to fine-tune your microphone volume as needed.
 
 
+## 6. Recording
 
+- **Start Recording**:
+  - Click "Start Recording" in the bottom-right corner.
+  - Minimize OBS Studio to record your screen and webcam simultaneously.
 
+- **Stop Recording**:
+  - When finished, return to OBS Studio and click "Stop Recording."
+  - Locate the recorded file in the file path specified in the output settings.
 
 
 
