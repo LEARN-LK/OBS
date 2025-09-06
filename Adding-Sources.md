@@ -9,7 +9,8 @@
     - A window will appear with the following options:
       - **Create new**
       - **Add Existing**: 
-<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:40%">
+
+      <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:40%">
     
     - Select **Create New** and Click  **"OK"** to proceed.
     - In the **next window**  select the **capture method:**
@@ -37,12 +38,12 @@
   - Ensure "Make source visible" is checked to display the webcam feed immediately.
   - Click **"OK" [5]** to proceed.
 
-    <img src="https://github.com/LEARN-LK/OBS/blob/main/img/video-capture-3.png" style="width:40%">
-
   - In the next window , select your webcam from the **"Device" [6]** dropdown **(e.g., "FaceTime HD Camera (Built-in)"** or your connected webcam).
   - Set the **"Preset" to "High" [7]** for better quality (optional adjustment).
   - Leave "Use Buffering" unchecked unless you experience lag (not recommended unless needed).
   - Click **"OK" [8]** to add the webcam feed.
+
+ <img src="https://github.com/LEARN-LK/OBS/blob/main/img/video-capture-3.png" style="width:40%">
 
 
 ## 5. Customization
