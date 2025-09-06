@@ -4,11 +4,11 @@
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-1.png" style="width:50%">
        
   - **Add Display Capture**:
-    - In the "Sources" section, click the "+" button.
+    - In the **"Sources" section**, click the **"+" button.**
     - Select **"macOS Screen Capture/Display Capture" [2]** from the dropdown menu and click "OK."
     - A window will appear with the following options:
-      - **Create new**: Select this option and name the source (e.g., "macOS Screen Capture 4" as shown in the first image).
-      - **Add Existing**: Use this if you’ve already created a screen capture source and want to reuse it (not applicable here since you’re adding a new one).
+      - **Create new**
+      - **Add Existing**: 
     - Ensure "Make source visible" is checked to display the screen capture feed immediately.
     - Click "OK" to proceed.
     - In the next window (properties for "macOS Screen Capture 4" as shown in the third image), select the capture method:
