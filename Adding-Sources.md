@@ -9,9 +9,9 @@
     - A window will appear with the following options:
       - **Create new**
       - **Add Existing**: 
-    - Ensure "Make source visible" is checked to display the screen capture feed immediately.
-    - Click "OK" to proceed.
-    - In the next window (properties for "macOS Screen Capture 4" as shown in the third image), select the capture method:
+    
+    - Select **Create New** and Click  **"OK"** to proceed.
+    - In the **next window**  select the **capture method:**
       - Choose **Display Capture [3]** from the "Method" dropdown to capture the entire screen.
       - Leave "Window Capture" or "Application Capture" unselected unless you want to focus on a specific window or application.
       - Check "Show cursor" if you want the mouse cursor to be visible in the recording (optional).
@@ -39,7 +39,7 @@
 
     <img src="https://github.com/LEARN-LK/OBS/blob/main/img/video-capture-3.png" style="width:40%">
 
-  - In the next window (properties for "Video Capture Device 2"), select your webcam from the **"Device" [6]** dropdown **(e.g., "FaceTime HD Camera (Built-in)"** or your connected webcam).
+  - In the next window , select your webcam from the **"Device" [6]** dropdown **(e.g., "FaceTime HD Camera (Built-in)"** or your connected webcam).
   - Set the **"Preset" to "High" [7]** for better quality (optional adjustment).
   - Leave "Use Buffering" unchecked unless you experience lag (not recommended unless needed).
   - Click **"OK" [8]** to add the webcam feed.
