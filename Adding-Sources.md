@@ -9,6 +9,7 @@
     - A window will appear with the following options:
       - **Create new**
       - **Add Existing**: 
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:40%">
     
     - Select **Create New** and Click  **"OK"** to proceed.
     - In the **next window**  select the **capture method:**
@@ -17,7 +18,6 @@
       - Check "Show cursor" if you want the mouse cursor to be visible in the recording (optional).
    - Click **"OK" [4]** to add the screen capture feed.
 
-<img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-2.png" style="width:40%">
 
 <img src="https://github.com/LEARN-LK/OBS/blob/main/img/adding-source-3.png" style="width:60%">
        
