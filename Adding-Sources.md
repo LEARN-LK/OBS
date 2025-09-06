@@ -50,6 +50,8 @@
 - **Adjust Webcam Position and Size**:
   - In the OBS preview window, use the red dots around the webcam feed to resize or drag it to your preferred position (e.g., bottom-right corner, as adjusted to 777 px width and 45 px height in the example).
 
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/Adjust-webcam.png" style="width:40%">
+
 - **Adjust Microphone Volume**:
   - Use the audio mixer in OBS to fine-tune your microphone volume as needed.
 
@@ -59,6 +61,10 @@
 - **Start Recording**:
   - Click "Start Recording" in the bottom-right corner.
   - Minimize OBS Studio to record your screen and webcam simultaneously.
+
+<img src="https://github.com/LEARN-LK/OBS/blob/main/img/recording.png" style="width:40%">
+
+
 
 - **Stop Recording**:
   - When finished, return to OBS Studio and click "Stop Recording."
