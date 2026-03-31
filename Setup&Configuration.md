@@ -223,7 +223,8 @@ Before starting live streaming:
 4. Click  [9] **Create**
 
 <img src="https://raw.githubusercontent.com/LEARN-LK/OBS/main/img/youtube-live-7.png" width="90%">
-5. Copy the newly created **Stream  [10]**
+
+5. Copy the newly created **Stream Key [10]**
 
 
 ---
