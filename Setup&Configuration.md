@@ -224,7 +224,7 @@ Before starting live streaming:
 
 <img src="https://raw.githubusercontent.com/LEARN-LK/OBS/main/img/youtube-live-7.png" width="90%">
 
-5. Copy the newly created **Stream Key [10]**
+5. Copy the newly created **Stream Key[10]**
 
 
 ---
@@ -233,13 +233,14 @@ Before starting live streaming:
 
 * Go to **Settings [11] → Stream [12]**
 
+
+<img src="https://raw.githubusercontent.com/LEARN-LK/OBS/main/img/youtube-live-8.png" width="90%">
+
 Set:
 
 * Service → YouTube
 * Server → Auto
 * Click **use Stream Key [13]**  → **Paste key [14]** → **Click OK [15]**
-
-<img src="https://raw.githubusercontent.com/LEARN-LK/OBS/main/img/youtube-live-8.png" width="90%">
 
 <img src="https://raw.githubusercontent.com/LEARN-LK/OBS/main/img/youtube-live-9.png" width="90%">
 
